@@ -3,7 +3,7 @@ package com.atguigu.binarysearchrecursion;
 public class BinarySearchNoRecur {
 
     public static void main(String[] args) {
-        System.out.println("分支操作");
+        System.out.println("分支操作66666");
         int[] arr = {1, 3, 8, 10, 11, 67, 100, 120};
         int index = binarySearch(arr, 11);
         System.out.println(index);
