@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d74f3fb-d48d-4c3a-9523-565f35a1eea8" name="Default Changelist" comment="初始化">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WritenExam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/DijkstraCase/Dijkstra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/DijkstraCase/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/DijkstraCase/VisitedVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/FloydCase/Floyd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/FloydCase/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/GongYSBS/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/KMP/Kmp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/binarysearchrecursion/BinarySearchNoRecur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/demo/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/demo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/demo/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/demo/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/demo/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/divide/Divide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/kruskalCase/Kruskal$EData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/kruskalCase/Kruskal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/prim/Prim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/com/atguigu/quickSort/quickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/faceTest/AutoUnboxingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/faceTest/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/faceTest/JIE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/faceTest/JieKou.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/faceTest/RegExpTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/faceTest/ThreadTest1$Dec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/faceTest/ThreadTest1$Inc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WritenExam/faceTest/ThreadTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/DijkstraCase/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/FloydCase/Floyd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/GongYSBS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/KMP/Kmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/binarysearchrecursion/BinarySearchNoRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/demo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/demo/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/divide/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/kruskalCase/Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/prim/Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/quickSort/quickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/faceTest/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/faceTest/JIE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/faceTest/JieKou.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1261973907">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="37" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.51" value="5" />
+          <entry key="project.open.time.52" value="5" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.54" value="2" />
+          <entry key="project.open.time.55" value="3" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.85" value="2" />
+          <entry key="project.opened" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="java" value="24978" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="24978" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/GongYSBS/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/quickSort/quickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/demo/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/demo/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/soultion.java" />
+        <option value="$PROJECT_DIR$/src/Soultion.java" />
+        <option value="$PROJECT_DIR$/src/TaiJie.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/binarysearchrecursion/BinarySearchNoRecur.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/divide/Divide.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/KMP/Kmp.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/kruskalCase/Kruskal.java" />
+        <option value="$PROJECT_DIR$/src/faceTest/JIE.java" />
+        <option value="$PROJECT_DIR$/src/faceTest/JieKou.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/FloydCase/Floyd.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/DijkstraCase/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/demo/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/prim/Prim.java" />
+        <option value="$PROJECT_DIR$/src/faceTest/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/demo/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/GongYSBS/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/quickSort/quickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/demo/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\JAVA\Repository" />
+        <option name="userSettingsFile" value="F:\JAVA\IDEA\IntelliJ IDEA 2018.2.2\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WritenExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WritenExam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WritenExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WritenExam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WritenExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WritenExam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WritenExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WritenExam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="CatdeaLogs" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626313271944" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.demo.Demo" />
+      <module name="WritenExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.GongYSBS.Main" />
+      <module name="WritenExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.GongYSBS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.demo.Solution" />
+      <module name="WritenExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="faceTest.ThreadTest1" />
+      <module name="WritenExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="faceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.quickSort.quickSort" />
+      <module name="WritenExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.quickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadTest1" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.quickSort" />
+      <item itemvalue="Application.Solution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.quickSort" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.ThreadTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d74f3fb-d48d-4c3a-9523-565f35a1eea8" name="Default Changelist" comment="" />
+      <created>1616151960212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616151960212</updated>
+      <workItem from="1616151967679" duration="3901000" />
+      <workItem from="1616223797503" duration="4973000" />
+      <workItem from="1616240134295" duration="2567000" />
+      <workItem from="1616309439135" duration="4253000" />
+      <workItem from="1616394817586" duration="8935000" />
+      <workItem from="1616549072943" duration="2611000" />
+      <workItem from="1616566696407" duration="9103000" />
+      <workItem from="1616740009636" duration="6199000" />
+      <workItem from="1617015787758" duration="3251000" />
+      <workItem from="1617100697815" duration="4931000" />
+      <workItem from="1617265457959" duration="1202000" />
+      <workItem from="1617328617879" duration="7483000" />
+      <workItem from="1617762230874" duration="11093000" />
+      <workItem from="1617798293665" duration="3271000" />
+      <workItem from="1617867218009" duration="4688000" />
+      <workItem from="1617957176249" duration="2959000" />
+      <workItem from="1617965839563" duration="3529000" />
+      <workItem from="1618038272826" duration="5661000" />
+      <workItem from="1618137772831" duration="1342000" />
+      <workItem from="1618189751070" duration="13424000" />
+      <workItem from="1618274846242" duration="2540000" />
+      <workItem from="1618396688172" duration="7457000" />
+      <workItem from="1618448981868" duration="600000" />
+      <workItem from="1618901684192" duration="1706000" />
+      <workItem from="1618905772640" duration="3242000" />
+      <workItem from="1618966877975" duration="3662000" />
+      <workItem from="1618989680033" duration="5051000" />
+      <workItem from="1619417507956" duration="8152000" />
+      <workItem from="1619485029818" duration="365000" />
+      <workItem from="1619610805136" duration="3107000" />
+      <workItem from="1619625191217" duration="1023000" />
+      <workItem from="1619656972457" duration="81000" />
+      <workItem from="1621406369777" duration="9039000" />
+      <workItem from="1621497505271" duration="4811000" />
+      <workItem from="1621513763638" duration="1455000" />
+      <workItem from="1621559424081" duration="14000" />
+      <workItem from="1621580056177" duration="6686000" />
+      <workItem from="1621845381588" duration="1254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="166463000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24072672" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38638985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4509804" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6262295" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="9" />
+      <window_info anchor="bottom" id="JProfiler" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.41147542" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Grav" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="8" weight="0.329296" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Alibaba Log Console" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/kruskalCase/Kruskal.java</url>
+          <line>61</line>
+          <properties class="com.atguigu.kruskalCase.Kruskal" method="getEnds">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Demo2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Demo1.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JDK8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../JDK8/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123201">
+          <caret line="4599" selection-start-line="4599" selection-end-line="4599" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../JDK8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6831">
+          <caret line="281" selection-start-line="281" selection-end-line="281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TaiJie.java" />
+    <entry file="file://$PROJECT_DIR$/src/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/Solution2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/binarysearchnorecursion.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/FloydCase.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/binarysearchrecursion/BinarySearchNoRecur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/KMP/Kmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/kruskalCase/Kruskal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <element signature="e#1846#1847#0" expanded="true" />
+            <element signature="e#1874#1875#0" expanded="true" />
+            <element signature="e#1913#1914#0" expanded="true" />
+            <element signature="e#1947#1948#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2000#2001#0" expanded="true" />
+            <element signature="e#2035#2036#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2095#2096#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+            <element signature="e#2165#2166#0" expanded="true" />
+            <element signature="e#2201#2202#0" expanded="true" />
+            <element signature="e#2247#2248#0" expanded="true" />
+            <element signature="e#2287#2288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/DijkstraCase/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/demo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/prim/Prim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/FloydCase/Floyd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/divide/Divide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/faceTest/JIE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/faceTest/JieKou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/faceTest/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/GongYSBS/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/quickSort/quickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/demo/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/demo/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WritenExam</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
